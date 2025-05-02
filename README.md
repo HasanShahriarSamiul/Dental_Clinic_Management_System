@@ -2,14 +2,14 @@
 Tooth Care is a simple and efficient Dental Clinic Management System designed to streamline clinic operations. Admins can add, update, search, and remove patient records while managing doctor registrations and profiles. Doctors can register, log in, access their dashboard, check patient details, view treatment history, and track appointments. This system reduces paperwork, minimizes errors, saves time, and ensures smooth communication between doctors and patients, leading to better care and improved clinic efficiency. With Tooth Care, dental clinics can operate more effectively and provide a seamless experience for both doctors and patients.
 
 
-In this project -
-✅The admin can login and control the management system.
-✅By default the username and password is "admin"
-✅Admin can add new patient, update the patient information, search and discharge patients from the dashboard.
-✅Dentists can Register by filling the required informations.
-✅Dentist can login to their dashboard and can see the patients assigned to them.
-✅Dentists can download their patient list in .doc file.
-and the upadated release.
+In this project -<br>
+✅The admin can login and control the management system.<br>
+✅By default the username and password is "admin"<br>
+✅Admin can add new patient, update the patient information, search and discharge patients from the dashboard.<br>
+✅Dentists can Register by filling the required informations.<br>
+✅Dentist can login to their dashboard and can see the patients assigned to them.<br>
+✅Dentists can download their patient list in .doc file.<br>
+and the upadated release.<br>
 
 DEMO👇
 ![Screenshot 2025-05-03 015539](https://github.com/user-attachments/assets/c71b39ba-aa1c-400a-8191-7c9a7265aa68)
